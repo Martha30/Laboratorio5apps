@@ -10,4 +10,5 @@
     <string name="new_Poll">Nueva Encuesta</string>
     <string name="view_answers">Ver respuestas</string>
     <string name="Home_text">Home</string>
+    <string name="acerca_De">El objetivo de esta aplicación es registrar a los invitados de un evento. Se proporciona una lista de invitados y luego se registra su asistencia uno por uno.</string>
 </resources>
