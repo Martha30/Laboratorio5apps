@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Laboratorio5</string>
+    <string name="image_description">trophy</string>
+    <string name="start_poll">Iniciar Encuesta</string>
+    <string name="default_question">¿Cuáles son sus comentarios?</string>
+    <string name="insert_your_answer">ingrese su respuesta</string>
+    <string name="result">Resultados</string>
+    <string name="raiting_text">Rating</string>
+    <string name="polls_test">Encuestas</string>
+    <string name="new_Poll">Nueva Encuesta</string>
+    <string name="view_answers">Ver respuestas</string>
+</resources>
