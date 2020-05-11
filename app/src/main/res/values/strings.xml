@@ -9,4 +9,5 @@
     <string name="polls_test">Encuestas</string>
     <string name="new_Poll">Nueva Encuesta</string>
     <string name="view_answers">Ver respuestas</string>
+    <string name="Home_text">Home</string>
 </resources>
