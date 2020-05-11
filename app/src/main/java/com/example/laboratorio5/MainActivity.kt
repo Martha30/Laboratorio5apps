@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
     private lateinit var appBarConfigurationError : AppBarConfiguration
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_main)
+        val appBarConfiguration = AppBarConfiguration(navController.graph)
         val binding = DataBindingUtil.setContentView<ActivityMainBinding>(this, R.layout.activity_main )
         drawerLayout = binding.drawerLayout
         val navController = this.findNavController(R.id.myNavHostFragment)
@@ -35,4 +37,4 @@ class MainActivity : AppCompatActivity() {
 
             }
     }
-}
+
